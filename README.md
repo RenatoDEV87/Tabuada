@@ -1,6 +1,6 @@
 # Crie um programa que exibe a tabuada de um número fornecidopelousuário (de 1 a 10) utilizando um loop for.
 
-Exercício 12: Tabuada de um Número (1 a 10)
+# Exercício 12: Tabuada de um Número (1 a 10)
 
 ---
 
